@@ -19,7 +19,6 @@
 
 </div>
 
-# 📊GitHub Stats :
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srinjoy-26&show_icons=true&theme=tokyonight" />
