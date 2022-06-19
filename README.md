@@ -21,11 +21,12 @@
 
 # 📊GitHub Stats :
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=srinjoy-26&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=srinjoy-26&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srinjoy-26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+    <h2>Github Profile Stats 📊</h2>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srinjoy-26&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinjoy-26&theme=tokyonight" /img>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinjoy-26&theme=radical&show_icons=true" />
+    <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=srinjoy-26&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
 
 ---
@@ -34,15 +35,8 @@
 <br>
 <br>
 
-<div align="center">
-    
-    <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=srinjoy-26&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 
-</div>
 
-<br>
-<br>
 
 
 ![Srinjoy Pati's github activity graph](https://activity-graph.herokuapp.com/graph?username=srinjoy-26&theme=react-dark)
