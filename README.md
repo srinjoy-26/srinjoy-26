@@ -1,4 +1,19 @@
+## Hey there , I'm Srinjoy
+#### I'm a Chapter lead of the Hack2skill Tech Club at Makaut , Currently enrolled in Second year and I am learning MERN Stack and UI Designer, ❤️ to contribute on Open Source projects. 
 
+<p align="center">
+
+    <a href=https://www.linkedin.com/in/srinjoy-pati-7b14301b7/"" target="_blank">
+    <img src="https://img.shields.io/badge/Gurjeet%20Singh%20Virdee-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="22" alt="linkedin">
+    <a href="https://discordapp.com/users/916597112882495510" target="_blank">
+    <img src="https://img.shields.io/badge/@Guri-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="80" height="22" alt="discord">
+    
+    <a href = "mailto: srinjoy25052003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say, Hello-D74E43?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="22"></a>
+ </p>
+ 
+<p align="center">
+    <img src="https://github.com/srinjoy-26/srinjoy-26/blob/main/gitartwork.svg" />
+</p>    
 
 
 
