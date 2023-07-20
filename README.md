@@ -42,4 +42,4 @@
 
 
 
-![Srinjoy Pati's github activity graph](https://activity-graph.herokuapp.com/graph?username=srinjoy-26&theme=react-dark)
+[![An image of @srinjoy_26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srinjoy_26)](https://holopin.io/@srinjoy_26)
