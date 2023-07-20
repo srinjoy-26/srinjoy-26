@@ -40,6 +40,6 @@
 
 
 
-
+<h3 align="center">Hacktoberfest badges:</h3>
 
 [![An image of @srinjoy_26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srinjoy_26)](https://holopin.io/@srinjoy_26)
