@@ -24,8 +24,7 @@
 
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
-     [![srinjoy-26's GitHub | Stats](https://stats.quine.sh/srinjoy-26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srinjoy-26)
-     [![srinjoy-26's GitHub | Topics](https://stats.quine.sh/srinjoy-26/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srinjoy-26)
+    
     <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
     <img src="https://github-profile-trophy.vercel.app/?username=srinjoy-26&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 
@@ -33,6 +32,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=srinjoy-26&icon=6&color=8)](https://visitcount.itsvg.in)
   </div>
+
+   [![srinjoy-26's GitHub | Stats](https://stats.quine.sh/srinjoy-26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srinjoy-26)
+   [![srinjoy-26's GitHub | Topics](https://stats.quine.sh/srinjoy-26/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srinjoy-26)
 
 <br>
 <br>
