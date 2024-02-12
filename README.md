@@ -1,5 +1,5 @@
 ## Hey there , I'm Srinjoy
-#### I'm a Chapter lead of the Hack2skill Tech Club at Makaut , Currently enrolled in Second year and I am learning MERN Stack and UI Designer, ❤️ to contribute on Open Source projects. 
+#### I'm a Front-end dev currently working with React. Eagerly looking for internships , I❤️ to contribute on Open Source projects. 
 
   
 
