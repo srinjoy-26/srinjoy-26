@@ -24,14 +24,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=srinjoy-26&icon=6&color=8)](https://visitcount.itsvg.in)
-  </div>
 
-   [![srinjoy-26's GitHub | Stats](https://stats.quine.sh/srinjoy-26/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srinjoy-26)
-   [![srinjoy-26's GitHub | Topics](https://stats.quine.sh/srinjoy-26/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=srinjoy-26)
-
-<br>
-<br>
 
 
 
